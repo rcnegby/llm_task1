@@ -1,0 +1,10 @@
+fastapi
+langchain[llms]
+llama-cpp-python
+sentence-transformers
+chromadb==0.3.29
+unstructured
+pdf2image
+pdfminer.six
+
+
